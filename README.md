@@ -17,6 +17,8 @@ Dostęp do bazy danych – dowolny.
 
 Raport ma filtrować dane wg zakresu dat i lokalu. 
 
+![alt text](https://github.com/gbeznicki/LSI-recruitment-task/blob/master/ReportView.png)
+
 Po kliknięciu w przycisk „Zatwierdź” aplikacja ma pobierać dane z bazy i wyświetlić je użytkownikowi.
 
 -------------------------------------------------------------------------------------------------------------------
