@@ -19,6 +19,8 @@ Raport ma filtrować dane wg zakresu dat i lokalu.
 
 Po kliknięciu w przycisk „Zatwierdź” aplikacja ma pobierać dane z bazy i wyświetlić je użytkownikowi.
 
+-------------------------------------------------------------------------------------------------------------------
+
 Q&A section: 
 
 1) Czy są jakieś wymagania odnośnie sposobu stworzenia/łączenia się z bazą (Entity framework? Code first?)
