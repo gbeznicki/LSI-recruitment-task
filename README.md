@@ -41,7 +41,7 @@ Nawet lepiej jak będą devexy
 
 Kilkanaście wystarczy
 
-6)Czy mam uwzględnić wyjątki? (jeśli tak to czy są jakieś sugestie?)
+6) Czy mam uwzględnić wyjątki? (jeśli tak to czy są jakieś sugestie?)
 
 Proszę zrobić zgodnie ze swoim doświadczeniem, obsługa wyjątków będzie mile widziana
 
