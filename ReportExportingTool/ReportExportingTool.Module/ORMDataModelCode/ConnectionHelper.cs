@@ -19,8 +19,7 @@ namespace ReportExportingTool.Module.LSI_Reporting_Tool
     {
         static Type[] persistentTypes = new Type[] {
             typeof(Reports),
-            typeof(ReportsHistory),
-            typeof(sysdiagrams)
+            typeof(ReportsHistory)
         };
         public static Type[] GetPersistentTypes()
         {
@@ -28,7 +27,7 @@ namespace ReportExportingTool.Module.LSI_Reporting_Tool
             Array.Copy(persistentTypes, copy, persistentTypes.Length);
             return copy;
         }
-        public static string ConnectionString { get { return System.Configuration.ConfigurationManager.ConnectionStrings["localhostLSI_Reporting_Tool"].ConnectionString; } }
+        public static string ConnectionString { get { return System.Configuration.ConfigurationManager.ConnectionStrings["localhost-LSI_Reporting_Tool"].ConnectionString; } }
         public static void Connect(DevExpress.Xpo.DB.AutoCreateOption autoCreateOption, bool threadSafe = false)
         {
             if (threadSafe)
