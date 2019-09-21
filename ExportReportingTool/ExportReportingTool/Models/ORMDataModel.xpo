@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="24e72bc6-0953-4f13-96d0-48f8bf7a1238" namespace="ExportReportingTool.Models.Database" dataBaseShemaInfo="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" generateConnectionHelper="true" generateStoredProcedures="true" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="ConnectionString" createdInVersion="19.1.6.0" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <comments>
+    <dataBaseObjectModelHasComments Id="639d51d1-9eb5-4e8c-b558-93e5d50b9532">
+      <comment Id="e9ccd4e1-5299-48cc-a614-b8e88559b2f0" text="The 'PK_Reports' index is ignored, because 'ID' is a key" name="ReportsComment">
+        <subjects>
+          <commentReferencesSubjects Id="22520732-bdd8-4002-b414-06d0c6f50cae">
+            <xpObjectMoniker Id="19f527ea-dda0-4366-b525-c550982a4707" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="1f8c5f4b-99ea-4059-895a-9fe74d2a98bf">
+      <comment Id="3b9faa0b-ee4f-4ca2-93c8-d8d8282764b3" text="The 'PK_ReportsHistory' index is ignored, because 'ID' is a key" name="ReportsHistoryComment">
+        <subjects>
+          <commentReferencesSubjects Id="176a0ae8-a8f7-412b-b9f4-a55e799d6ae8">
+            <xpObjectMoniker Id="328908fc-384c-4355-871e-7f05062f780c" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+  </comments>
+  <storedProcedures>
+    <dataBaseObjectModelHasStoredProcedures Id="e6b5f161-6d50-4dad-ac66-71eca4fec3f1">
+      <storedProcedure Id="1d5226c7-c1a7-44aa-9367-04698177f399" name="ReportHistoryInsert">
+        <arguments>
+          <storedProcedureHasArguments Id="1ae8b184-0245-4ecf-b06e-ed50422f1390">
+            <argument Id="63028584-4525-49b1-9186-79813a5d2d23" name="ID" columnType="Guid" virtualColumnType="Guid" />
+          </storedProcedureHasArguments>
+          <storedProcedureHasArguments Id="02feae17-c955-40c2-b01b-2f82bb24392f">
+            <argument Id="d4f2d2a2-8805-42b3-91b6-abc9f2d5b3ee" name="ExportName" virtualColumnType="String" />
+          </storedProcedureHasArguments>
+          <storedProcedureHasArguments Id="3423f027-cf58-48aa-a488-87235244e7ff">
+            <argument Id="51b07c5b-fff5-44c1-8ce3-9da2e50d632e" name="DateTimeOfExport" columnType="DateTime" virtualColumnType="DateTime" />
+          </storedProcedureHasArguments>
+          <storedProcedureHasArguments Id="d3cb0589-a890-445e-b2bb-cab4f7b27920">
+            <argument Id="4b0a9186-216f-4c36-a6dc-679fd45cbe57" name="UserName" virtualColumnType="String" />
+          </storedProcedureHasArguments>
+          <storedProcedureHasArguments Id="4775e04d-3fef-41a5-94b8-55d0b4a605f0">
+            <argument Id="2aea6512-3b07-41ae-a14e-37a52e7fd886" name="LocalName" virtualColumnType="String" />
+          </storedProcedureHasArguments>
+        </arguments>
+      </storedProcedure>
+    </dataBaseObjectModelHasStoredProcedures>
+  </storedProcedures>
+  <classes>
+    <dataBaseObjectModelHasClasses Id="057c5e7b-70ff-4657-99ca-6f92a041115a">
+      <xpObject Id="19f527ea-dda0-4366-b525-c550982a4707" name="Reports" baseClass="XPLiteObject" userFileName="Reports" designerFileName="Reports.Designer" className="Reports" virtualBaseClass="XPLiteObject" persistent="Reports" virtualName="Reports">
+        <fields>
+          <generalXpObjectHasFields Id="75c0b515-8c0f-4cfd-be12-cbb2cc5730f1">
+            <field Id="7f0dd0fd-e2a3-4548-8833-9bd03bdec002" name="ID" columnType="Guid" key="true" isIdentity="true" persistent="ID" virtualColumnType="Guid" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="44382734-1c19-426f-98f6-e734ad263473">
+            <field Id="ea9602d1-85d4-4901-8436-3d4c7ca555b2" name="Name" persistent="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4aa565ae-2be4-4226-91d5-49a6fda3b342">
+            <field Id="1bdbb492-14a6-4311-8c72-33675b3d33f9" name="CreatedOn" columnType="DateTime" persistent="CreatedOn" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e8e3d8d6-18b4-40c9-a10d-7235d2ab2083">
+            <field Id="b0c2b188-d257-4588-8435-1fe261a97262" name="Text" persistent="Text" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="3ac3d066-13ef-4349-9a40-a98d58bfe6b8">
+      <xpObject Id="328908fc-384c-4355-871e-7f05062f780c" name="ReportsHistory" baseClass="XPLiteObject" userFileName="ReportsHistory" designerFileName="ReportsHistory.Designer" className="ReportsHistory" virtualBaseClass="XPLiteObject" persistent="ReportsHistory" virtualName="ReportsHistory">
+        <fields>
+          <generalXpObjectHasFields Id="1f249d81-68b1-418a-949e-a8bf96c459e7">
+            <field Id="88c214c9-8282-4fe9-9d08-e6c1de9b34a5" name="ID" columnType="Guid" key="true" isIdentity="true" persistent="ID" virtualColumnType="Guid" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d1b328ca-d7b3-4974-83e1-c6d39729c8cd">
+            <field Id="361f1b77-eda5-4e90-b1ed-bdfd3cfc6227" name="ExportName" persistent="ExportName" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="bf6e2654-194e-4c6d-ad2e-5aa6724d0633">
+            <field Id="0f556466-9c39-4358-8ae4-c4a8c374bcb7" name="DateTimeOfExport" columnType="DateTime" persistent="DateTimeOfExport" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="8b9cc129-9e80-481a-8c60-89fbbe38da00">
+            <field Id="89714f51-1ac4-492f-8b0c-5ece1d10fee9" name="UserName" persistent="UserName" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0f566590-1459-4f77-88fe-bfaf45611573">
+            <field Id="b2394e4d-3875-481a-9507-39374d1f0171" name="LocalName" persistent="LocalName" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>
